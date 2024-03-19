@@ -25,7 +25,7 @@ We use 3 public closed-domain datasets:
 3. Taskmaster
 ```
 
-And we use 2 public open-domain datasets:
+Additionally, we utilise 2 public open-domain datasets:
 
 ```
 1. PersonaChat
