@@ -1,0 +1,15 @@
+catboost==1.2
+datasets==2.14.4
+dgl==1.1.1+cu117
+faiss-cpu==1.7.4
+gensim==4.3.1
+networkx==3.1
+pandas==2.0.3
+scikit-learn==1.3.0
+scipy==1.10.1
+sentence-transformers==2.2.2
+torch==2.0.1
+torch-geometric==2.3.1
+torch-scatter==2.1.1+pt20cu117
+torchvision==0.15.2
+tqdm==4.66.1
