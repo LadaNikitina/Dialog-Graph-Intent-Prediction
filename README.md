@@ -14,3 +14,20 @@ Clone the repository:
 Install dependencies:
 
 ```pip install -r requirements.txt```
+
+## Datasets
+
+We use 3 public closed-domain datasets:
+
+```
+1. MultiWOZ
+2. FoCus
+3. Taskmaster
+```
+
+And we use 2 public open-domain datasets:
+
+```
+1. PersonaChat
+2. DailyDialog
+```
