@@ -1,6 +1,7 @@
 # Reimagining Intent Prediction: Insights from Graph-Based Dialogue Modeling and Sentence Encoders
 
 Authors: Daria Ledneva and Denis Kusnetsov.
+
 LREC-Coling 2024. Paper: _ToDo_
 
 ## Overview
