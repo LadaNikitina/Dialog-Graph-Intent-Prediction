@@ -38,4 +38,23 @@ Additionally, we utilise 2 public open-domain datasets:
 
 ## Citation
 
-_ToDo_
+```
+@inproceedings{ledneva-kuznetsov-2024-reimagining-intent,
+    title = "Reimagining Intent Prediction: Insights from Graph-Based Dialogue Modeling and Sentence Encoders",
+    author = "Ledneva, Daria Romanovna  and
+      Kuznetsov, Denis Pavlovich",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1208",
+    pages = "13847--13860",
+}
+```
